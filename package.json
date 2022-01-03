@@ -1,0 +1,37 @@
+{
+  "name": "react-grid",
+  "version": "1.0.0",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "fetch-jsonp": "^1.2.1",
+    "normalize.css": "7.0.0",
+    "prop-types": "^15.8.0",
+    "react": "^16.14.0",
+    "react-automata": "^1.0.0-2",
+    "react-dom": "^16.0.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
